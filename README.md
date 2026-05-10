@@ -19,6 +19,15 @@ Additional experience:
 
 ---
 
+## 🎮 My Games
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/7ce3882c-3c77-49cd-8658-c5f6108ecc03" width="48%" />
+  <img src="https://github.com/user-attachments/assets/1c74a1c9-13ed-4ca6-a618-89a87a0a5df7" width="48%" />
+</p>
+
+---
+
 ## 📫 Contact
 - Email: demianblogan@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/demianblogan)
