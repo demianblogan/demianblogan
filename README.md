@@ -1,4 +1,4 @@
-# Hi, I'm Demian 👋
+# Demian Blogan 👋
 
 C++ Game Developer with experience in both AAA and personal game development.
 
