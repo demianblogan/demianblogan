@@ -20,6 +20,10 @@ Additional experience:
 ---
 
 ## 🎮 My Games
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6607b5a3-f0cf-4dd8-9693-6e0dacf1ddc6" width="49%" />
+  <img src="https://github.com/user-attachments/assets/b4484224-88f9-4fc6-9529-e53a24b71c2d" width="49%" />
+</p>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7ce3882c-3c77-49cd-8658-c5f6108ecc03" width="48%" />
