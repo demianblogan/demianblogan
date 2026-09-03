@@ -1,10 +1,16 @@
 # Demian Blogan 👋
 
-C++ Game Developer with experience in both AAA and personal game development.
+I’m a C++ Game Developer with AAA production experience at Ubisoft, where I worked on titles including Far Cry 6, The Crew Motorfest, Assassin’s Creed Shadows and Tom Clancy’s Rainbow Six Siege.
 
-Previously worked at Ubisoft on large-scale game projects including Rainbow Six Siege and Far Cry.
+My experience covers gameplay, UI, input, platform and engine systems, as well as debugging, profiling, performance optimization and working with large production codebases across PC and consoles.
 
-Currently building personal projects, exploring different areas of game development, and creating educational content about C++ and programming.
+Alongside my professional experience, I develop my own games in C++. My projects include a 2D platformer built with SFML 3 and a custom sparse-set ECS, a top-down shoote. I enjoy working close to the engine level and building gameplay and reusable systems from the ground up.
+
+I also have experience with C#, Unity and Unreal Engine, and previously taught C++, C#, Unity, Unreal Engine, design patterns and Git/GitHub.
+
+I create programming tutorials and educational videos on YouTube, where I share what I learn about programming, C++, game development and related technologies.
+
+I’m currently looking for Game Development opportunities in Spain or remote roles across Europe and, where possible, North America.
 
 ---
 
