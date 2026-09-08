@@ -4,7 +4,7 @@ I’m a C++ Game Developer with AAA production experience at Ubisoft, where I wo
 
 My experience covers gameplay, UI, input, platform and engine systems, as well as debugging, profiling, performance optimization and working with large production codebases across PC and consoles.
 
-Alongside my professional experience, I develop my own games in C++. My projects include a 2D platformer built with SFML 3 and a custom sparse-set ECS, a top-down shoote. I enjoy working close to the engine level and building gameplay and reusable systems from the ground up.
+Alongside my professional experience, I develop my own games in C++. I enjoy working close to the engine level and building gameplay and reusable systems from the ground up.
 
 I also have experience with C#, Unity and Unreal Engine, and previously taught C++, C#, Unity, Unreal Engine, design patterns and Git/GitHub.
 
