@@ -1,4 +1,4 @@
-# Demian Blogan 👋
+# Demian Kozachuk 👋
 
 I’m a C++ Game Developer with AAA production experience at Ubisoft, where I worked on titles including Far Cry 6, The Crew Motorfest, Assassin’s Creed Shadows and Tom Clancy’s Rainbow Six Siege.
 
