@@ -69,7 +69,7 @@ Real SRS rotation and wall kicks, a 7-bag randomizer, T-spins, combos and Perfec
 ---
 
 ## 📫 Contact
-- Email: demianblogan@gmail.com
+- demianblogan@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/demianblogan)
 - [YouTube](https://www.youtube.com/@BloganProgrammer)
 - [Facebook](https://www.facebook.com/demianblogan)
