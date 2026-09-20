@@ -16,24 +16,54 @@ I’m currently looking for Game Development opportunities in Spain or remote ro
 
 ## 🛠 Technologies & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,unity,unreal,visualstudio,git,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,unity,unreal,cmake,visualstudio,git,windows)](https://skillicons.dev)
 
 Additional experience:
 - SFML
+- OpenGL
 - GLSL shaders
+- nlohmann/json
+- Raw HID device I/O (DualSense rumble/lightbar/adaptive triggers, vendored and driven directly across all three of my C++ projects below)
 - Windows API
 
 ---
 
 ## 🎮 My Games
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6607b5a3-f0cf-4dd8-9693-6e0dacf1ddc6" width="49%" />
-  <img src="https://github.com/user-attachments/assets/b4484224-88f9-4fc6-9529-e53a24b71c2d" width="49%" />
-</p>
+
+### [Wild Adventure](https://github.com/demianblogan/Wild_Adventure) — 2D pixel-art platformer (C++23 / SFML 3.1)
+
+A hand-crafted platforming campaign built on a custom sparse-set ECS: 9 enemy types with distinct AI, 4 trap types, a three-star rating system, and deep DualSense rumble/lightbar support tuned per in-game event.
+
+**[▶ Play on itch.io](https://demianblogan.itch.io/wild-adventure)** · **[💻 Source](https://github.com/demianblogan/Wild_Adventure)**
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7ce3882c-3c77-49cd-8658-c5f6108ecc03" width="48%" />
-  <img src="https://github.com/user-attachments/assets/1c74a1c9-13ed-4ca6-a618-89a87a0a5df7" width="48%" />
+  <img src="https://raw.githubusercontent.com/demianblogan/Wild_Adventure/main/docs/media/level2.gif" width="32%" />
+  <img src="https://raw.githubusercontent.com/demianblogan/Wild_Adventure/main/docs/media/level3.gif" width="32%" />
+  <img src="https://raw.githubusercontent.com/demianblogan/Wild_Adventure/main/docs/media/level6.gif" width="32%" />
+</p>
+
+### [Until Last Asteroid](https://github.com/demianblogan/Until_Last_Asteroid) — twin-stick space shooter (C++20 / SFML 3.1)
+
+A 10-level campaign building to a three-phase boss fight, plus endless Horde and one-hit Run modes, ship upgrades, achievements and per-mode leaderboards.
+
+**[▶ Play on itch.io](https://demianblogan.itch.io/until-last-asteroid)** · **[💻 Source](https://github.com/demianblogan/Until_Last_Asteroid)**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/demianblogan/Until_Last_Asteroid/main/docs/media/Gameplay1.gif" width="32%" />
+  <img src="https://raw.githubusercontent.com/demianblogan/Until_Last_Asteroid/main/docs/media/Gameplay2.gif" width="32%" />
+  <img src="https://raw.githubusercontent.com/demianblogan/Until_Last_Asteroid/main/docs/media/Gameplay3.gif" width="32%" />
+</p>
+
+### [Tessera](https://github.com/demianblogan/Tessera) — falling-block puzzle game (C++23 / SFML 3.1)
+
+Real SRS rotation and wall kicks, a 7-bag randomizer, T-spins, combos and Perfect Clear, plus one endless mode that quietly turns hostile the longer you survive.
+
+**[▶ Play on itch.io](https://demianblogan.itch.io/tessera)** · **[💻 Source](https://github.com/demianblogan/Tessera)**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/demianblogan/Tessera/master/docs/media/gameplay1.gif" width="32%" />
+  <img src="https://raw.githubusercontent.com/demianblogan/Tessera/master/docs/media/options.gif" width="32%" />
+  <img src="https://raw.githubusercontent.com/demianblogan/Tessera/master/docs/media/pause.gif" width="32%" />
 </p>
 
 ---
